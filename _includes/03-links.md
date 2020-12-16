@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+Here's a collection of [INTERESTING DOCUMENTS](https://hack.org/mc/texts.html) from the old BBS days. 
