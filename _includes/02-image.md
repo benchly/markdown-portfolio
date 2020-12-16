@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My Philco Transitone 48-200](https://i.imgur.com/pfiCEMD.jpeg)
