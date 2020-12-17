@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I make a _pretty mean_ __Irish Soda Bread__ which is pretty cool, even though I'm __not _actually_ Irish_. 
